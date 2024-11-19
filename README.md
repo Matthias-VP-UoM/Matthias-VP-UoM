@@ -15,6 +15,7 @@ Hi, I am Matthias Vassallo Pulis, a determined student at the [University of Mal
     </a>
     <a href="mailto:matthias.vassallo-pulis.22@um.edu.mt">
         <img src="https://img.shields.io/badge/University%20Email-matthias.vassallo-pulis.22@um.edu.mt-red?style=for-the-badge&logo=gmail&logoColor=white" alt="University Email">
+    </a>
 </div>
 
 <!--
