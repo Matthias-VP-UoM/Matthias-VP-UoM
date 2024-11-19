@@ -21,9 +21,6 @@
     <a href="https://www.linkedin.com/in/matthias-vassallo-pulis-69b9a6285/">
       <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn/>
     </a>
-    <a href="https://x.com/MvPulis07">
-        <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" target="_blank" alt="X">
-    </a>
 </div>
 
 <!--
