@@ -16,6 +16,9 @@
     <a href="mailto:matthias.vassallo-pulis.22@um.edu.mt">
         <img src="https://img.shields.io/badge/UOM Email-matthias.vassallo.pulis.22@um.edu.mt-darkred?style=for-the-badge&logo=gmail&logoColor=white" alt="UoM Email">
     </a>
+    <a href="https://www.linkedin.com/in/matthias-vassallo-pulis-69b9a6285/">
+      <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
+    </a>
 </div>
 
 <!--
