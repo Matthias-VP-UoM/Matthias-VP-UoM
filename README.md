@@ -1,10 +1,10 @@
 # Matthias Vassallo Pulis
-Hi, I am Matthias Vassallo Pulis, a determined student at the [University of Malta](https://www.um.edu.mt/)
+Hi, I am Matthias Vassallo Pulis, a determined student at the <a href="https://www.um.edu.mt/" target="_blank">University of Malta</a>.
 
 ## About Me
-🎓 My passion for AI began when I discovered its potential and the wide range of applications this technology brings. My studies so far have given me a solid foundation in a variety of technical fields, especially in Data Analytics, Computer Vision, Deep Learning and Game AI, which are considered to be my main personal interests.
+<p>🎓 My passion for AI began when I discovered its potential and the wide range of applications this technology brings. My studies so far have given me a solid foundation in a variety of technical fields, especially in Data Analytics, Computer Vision, Deep Learning and Game AI, which are considered to be my main personal interests.</p>
 
-💻 I'm constantly improving my skills through hands-on experience with a variety of programming languages, such as Python, Java and C#, ensuring versatility across different platforms. Apart from that, I also work as a Data Analyst Intern at [Deloitte Malta](https://www.deloitte.com/mt/en.html), which has also given me the opportunity to apply what I learn in my studies in the industry.
+<p>💻 I'm constantly improving my skills through hands-on experience with a variety of programming languages, such as Python, Java and C#, ensuring versatility across different platforms. Apart from that, I also work as a Data Analyst Intern at [Deloitte Malta](https://www.deloitte.com/mt/en.html), which has also given me the opportunity to apply what I learn in my studies in the industry.</p>
 
 ## 📫 How to Reach Me:
 
