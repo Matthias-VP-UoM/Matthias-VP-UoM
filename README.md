@@ -1,5 +1,5 @@
 # Matthias Vassallo Pulis
-<p>Hi, I am Matthias Vassallo Pulis, a determined student at the <a href="https://www.um.edu.mt/" target="_blank">University of Malta</a>.</p>
+<p>Hi, I am Matthias Vassallo Pulis, a determined student at the <a href="https://www.um.edu.mt/" target="_blank">University of Malta</a>, studying for a Bachelors degree in Artificial Intelligence.</p>
 
 ## About Me
 <p>🎓 My passion for AI began when I discovered its potential and the wide range of applications this technology brings. My studies so far have given me a solid foundation in a variety of technical fields, especially in Data Analytics, Computer Vision, Deep Learning and Game AI, which are considered to be my main personal interests.</p>
