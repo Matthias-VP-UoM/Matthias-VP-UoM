@@ -25,7 +25,7 @@
 
 ## 🧑🏻‍💻 Tech Stack & Expertise  
 - **Programming:** Python, Java, JavaScript, C/C++, C#, etc.  
-- **AI/ML:** Deep Learning, Computer Vision, NLP, Generative AI, Game AI
+- **AI/ML:** Deep Learning, Computer Vision, Information Retrieval, NLP, Generative AI, Game AI
 - **Data Science:** Data Analysis, Named Entity Recognition (NER), SQL Server, PostgreSQL 
 - **Web Tools:** Flask, HTML/CSS, React, FastAPI, Streamlit  
 - **Tools & Libraries:** OpenCV, TensorFlow, PyTorch, NLTK, Pandas, Numpy  
