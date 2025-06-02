@@ -12,18 +12,13 @@
 
 ## 📫 Contact Me
 
-<p align="center">
-    <br>
-    <a href="mailto:mvassallopulis@gmail.com">
-        <img src="https://img.shields.io/badge/Personal Email-mvassallopulis@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Personal Email">
-    </a>
-    <a href="mailto:matthias.vassallo-pulis.22@um.edu.mt">
-        <img src="https://img.shields.io/badge/UOM Email-matthias.vassallo.pulis.22@um.edu.mt-darkred?style=for-the-badge&logo=gmail&logoColor=white" alt="UoM Email">
-    </a>
-    <a href="https://www.linkedin.com/in/matthias-vassallo-pulis-69b9a6285/">
-      <img align="center" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff" target="_blank"/>
-    </a>
-</p>
+<div align="center">
+    
+[![Personal Email](https://img.shields.io/badge/Personal%20Email-mvassallopulis@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mvassallopulis@gmail.com)
+[![University Email](https://img.shields.io/badge/University%20Email-matthias.vassallo%E2%80%93pulis.22@um.edu.mt-darkred?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matthias.vassallo-pulis.22@um.edu.mt)
+[![Linkedin](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/matthias-vassallo-pulis-69b9a6285/)
+
+</div>
 
 ## 🧑🏻‍💻 Tech Stack & Expertise  
 
@@ -36,7 +31,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://custom-icon-badges.demolab.com/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![C#](https://custom-icon-badges.demolab.com/badge/C%23-239120?style=for-the-badge&logo=cshrp&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Prolog](https://custom-icon-badges.demolab.com/badge/Prolog-8B0000?style=for-the-badge&logo=prolog&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
