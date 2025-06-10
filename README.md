@@ -36,6 +36,8 @@
 ![Prolog](https://custom-icon-badges.demolab.com/badge/Prolog-8B0000?style=for-the-badge&logo=prolog&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sqlite&logoColor=white)
+![Golang](https://img.shields.io/badge/Golang-0080FF?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-FF4500?style=for-the-badge&logo=rust&logoColor=white)
 
 ### Web Technologies & Frameworks
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
