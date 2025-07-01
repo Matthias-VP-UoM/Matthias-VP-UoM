@@ -9,7 +9,7 @@
 
 <p>💼 Apart from that, I also work as a <b>Junior Data & AI Engineer (Analyst)</b> at <a href="https://www.deloitte.com/mt/en.html" target="_blank">Deloitte Malta</a>, which has also given me the opportunity to apply what I have learnt throughout my studies in the industry.</p>
 
-<p>Outside of both work and studies, I am a passionate sports and gaming enthusiast, always making sure I am up to date with the latest sports news, mostly regarding football (soccer) ⚽, basketball 🏀 American football 🏈, along with the latest gaming and esports news. Apart from that, I also like to work out, whether at home or in the gym 💪.</p>
+<p>Outside of both work and studies, I am a passionate sports and gaming enthusiast, always making sure I am up to date with the latest sports news, mostly regarding football (soccer) ⚽, basketball 🏀, American football 🏈, along with the latest gaming and esports news. Apart from that, I also like to work out, whether at home or in the gym 💪.</p>
 
 ## 📫 Contact Me
 
