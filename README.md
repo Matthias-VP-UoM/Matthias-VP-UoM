@@ -1,15 +1,15 @@
 # Matthias Vassallo Pulis
 
-<p>Hi, I am Matthias Vassallo Pulis, a recent <b>graduate</b> with a Bachelor's degree in Artificial Intelligence (AI), which was pursued at the <a href="https://www.um.edu.mt/" target="_blank">University of Malta</a>. I am also planning to pursue a Master's degree in the same field.</p>
+<p>Hi, I am Matthias Vassallo Pulis, a recent <b>graduate</b> with a <b>Bachelor's degree in Artificial Intelligence (AI)</b>, which was pursued at the <a href="https://www.um.edu.mt/" target="_blank">University of Malta</a>. I am also planning to pursue a Master's degree in the same field.</p>
 
 ## About Me
-<p>🎓 My passion for AI began when I discovered its potential and the wide range of applications this technology brings.  I love solving real-world problems using AI. My studies so far have given me a solid foundation in a variety of technical fields, especially in Data Analytics, Computer Vision, Deep Learning, Game AI and Generative AI applications, which are considered to be the areas that I am most passionate about. Alongside these technologies, I have also worked on projects that involved other areas, such as Robotics, Information Retrieval and Natural Language Processing (NLP).</p>
+<p>🎓 My passion for AI began when I discovered its potential and the wide range of applications this technology brings.  I love solving real-world problems using AI. My studies so far have given me a solid foundation in a variety of technical fields, especially in <b></b>Data Science, Computer Vision, Deep Learning, Game AI and Generative AI applications </b>, which are considered to be the areas that I am <b>most passionate</b> about. Alongside these technologies, I have also worked on projects that involved other areas, such as <b>Robotics, Information Retrieval and Natural Language Processing (NLP)</b>.</p>
 
-<p>💻 Whenever I'm not working on AI projects, I'm constantly looking to improve my skills through hands-on experience with a variety of programming languages, such as Python, Java and C# (and learning new ones along the way), ensuring versatility across different platforms. This ensures I am prepared for whatever challenges life throws at me. You can view my full tech stack <a href="#-tech-stack--expertise">below</a>.</p>
+<p>💻 Whenever I'm not working on AI projects, I'm constantly looking to improve my skills through hands-on experience with a variety of programming languages, such as <b>Python, Java and C#</b> (and learning new ones along the way), ensuring <b>versatility across different platforms</b>. This helps to prepare me for whatever challenges life throws at me. You can view my <b>full tech stack</b> <a href="#-tech-stack--expertise">below</a>.</p>
 
 <p>💼 Apart from that, I also work as a <b>Junior Data & AI Engineer (Analyst)</b> at <a href="https://www.deloitte.com/mt/en.html" target="_blank">Deloitte Malta</a>, which has also given me the opportunity to apply what I have learnt throughout my studies in the industry.</p>
 
-<p>Outside of both work and studies, I am a passionate sports and gaming enthusiast, always making sure I am up to date with the latest sports news, mostly regarding football (soccer) ⚽, basketball 🏀, American football 🏈, along with the latest gaming and esports news 🎮. Apart from that, I also like to work out, whether at home or in the gym 💪.</p>
+<p>Outside of both work and studies, I am a <b>passionate sports and gaming enthusiast</b>, always making sure I am up to date with the <b>latest sports news</b>, mostly regarding <b>football (soccer) ⚽, basketball 🏀 and American football 🏈</b>, along with the <b>latest gaming and esports news 🎮</b>. Apart from that, I also like to <b>work out</b>, whether at home or in the gym 💪.</p>
 
 ## 📫 Contact Me
 
