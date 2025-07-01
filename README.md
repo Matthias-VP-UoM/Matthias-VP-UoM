@@ -1,14 +1,15 @@
 # Matthias Vassallo Pulis
-<p>Hi, I am Matthias Vassallo Pulis, a <b>3rd year</b> student at the <a href="https://www.um.edu.mt/" target="_blank">University of Malta</a>, studying for a Bachelor's degree in Artificial Intelligence (AI).</p>
+
+<p>Hi, I am Matthias Vassallo Pulis, a recent <b>graduate</b> with a Bachelor's degree in Artificial Intelligence (AI), which was pursued at the <a href="https://www.um.edu.mt/" target="_blank">University of Malta</a>. I am also planning to pursue a Master's degree in the same field.</p>
 
 ## About Me
-<p>🎓 My passion for AI began when I discovered its potential and the wide range of applications this technology brings.  I love solving real-world problems using AI. My studies so far have given me a solid foundation in a variety of technical fields, especially in Data Analytics, Computer Vision, Deep Learning, Game AI and Natural Language Processing (NLP), which are considered to be the areas that I am most passionate about. Alongside these technologies, I have also worked on projects that involved other areas, such as Robotics, Information Retrieval and Generative AI applications.</p>
+<p>🎓 My passion for AI began when I discovered its potential and the wide range of applications this technology brings.  I love solving real-world problems using AI. My studies so far have given me a solid foundation in a variety of technical fields, especially in Data Analytics, Computer Vision, Deep Learning, Game AI and Generative AI applications, which are considered to be the areas that I am most passionate about. Alongside these technologies, I have also worked on projects that involved other areas, such as Robotics, Information Retrieval and Natural Language Processing (NLP).</p>
 
-<p>💻 Whenever I'm not working on AI projects, I'm constantly looking to improve my skills through hands-on experience with a variety of programming languages, such as Python, Java and C#, ensuring versatility across different platforms. This ensures I am prepared for whatever life throws at me.</p>
+<p>💻 Whenever I'm not working on AI projects, I'm constantly looking to improve my skills through hands-on experience with a variety of programming languages, such as Python, Java and C# (and learning new ones along the way), ensuring versatility across different platforms. This ensures I am prepared for whatever challenges life throws at me. You can view my full tech stack <a href="#-tech-stack--expertise">below</a>.</p>
 
-<p>💼 Apart from that, I also work as a Data Analyst Intern at <a href="https://www.deloitte.com/mt/en.html" target="_blank">Deloitte Malta</a>, which has also given me the opportunity to apply what I am learning in my studies in the industry.</p>
+<p>💼 Apart from that, I also work as a <b>Junior Data & AI Engineer (Analyst)</b> at <a href="https://www.deloitte.com/mt/en.html" target="_blank">Deloitte Malta</a>, which has also given me the opportunity to apply what I have learnt throughout my studies in the industry.</p>
 
-<p>Outside of both work and studies, my other passions are working out 💪, playing basketball 🏀, and gaming 🎮.</p>
+<p>Outside of both work and studies, I am a passionate sports and gaming enthusiast, always making sure I am up to date with the latest sports news, mostly regarding football (soccer) ⚽, basketball 🏀 American football 🏈, along with the latest gaming and esports news. Apart from that, I also like to work out, whether at home or in the gym 💪.</p>
 
 ## 📫 Contact Me
 
@@ -55,6 +56,8 @@
 ![Microsoft SQL Server](https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=mssqlserver-white&logoColor=white)
 
 ### AI, ML & Data Science
+
+- #### Packages/Libraries
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
@@ -72,6 +75,10 @@
 ![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Seaborn](https://custom-icon-badges.demolab.com/badge/Seaborn-99CCFF?style=for-the-badge&logo=seaborn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+- #### Platforms
+![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=msazure&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=fff)
 
 ### Game Development
 ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
