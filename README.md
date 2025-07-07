@@ -68,17 +68,24 @@
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![Roboflow](https://img.shields.io/badge/Roboflow-8A2BE2?style=for-the-badge&logo=roboflow&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21F?style=for-the-badge&logo=huggingface&logoColor=white)
-![Ollama](https://custom-icon-badges.demolab.com/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![LangChain](https://custom-icon-badges.demolab.com/badge/LangChain-006666?style=for-the-badge&logo=langchain&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000?logo=ollama&logoColor=fff&style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-006666?logo=langchain&logoColor=fff&style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Seaborn](https://custom-icon-badges.demolab.com/badge/Seaborn-99CCFF?style=for-the-badge&logo=seaborn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+<!--![Ollama](https://custom-icon-badges.demolab.com/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)-->
+<!--![LangChain](https://custom-icon-badges.demolab.com/badge/LangChain-006666?style=for-the-badge&logo=langchain&logoColor=white)-->
 
 - #### Platforms
 ![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=msazure&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=fff)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=fff)
+![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?style=for-the-badge&logo=power-bi&logoColor=fff)
+
+- #### Other Noteworthy Technologies
+![ETL](https://custom-icon-badges.demolab.com/badge/ETL-9370DB?style=for-the-badge&logo=etl-logo&logoColor=fff)
 
 ### Game Development
 ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
@@ -92,7 +99,15 @@
 ### Design, Visualisation & Video Editing
 ![Adobe Photoshop](https://custom-icon-badges.demolab.com/badge/Adobe%20Photoshop-0A66C2?style=for-the-badge&logo=photoshop&logoColor=white)
 ![Gimp](https://img.shields.io/badge/Gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
-![Filmora](https://custom-icon-badges.demolab.com/badge/Filmora-0A66C2?style=for-the-badge&logo=wondershare&logoColor=white)
+![Filmora](https://img.shields.io/badge/Filmora-0A66C2?style=for-the-badge&logo=wondersharefilmora&logoColor=fff)
+<!--![Filmora](https://custom-icon-badges.demolab.com/badge/Filmora-0A66C2?style=for-the-badge&logo=wondershare&logoColor=white)-->
+
+### Documentation
+![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=latex&logoColor=white)
+![Microsoft Word](https://custom-icon-badges.demolab.com/badge/Microsoft%20Word-0089D6?style=for-the-badge&logo=msword&logoColor=white)
+![Google Docs](https://img.shields.io/badge/Google%20Docs-4285F4?style=for-the-badge&logo=googledocs&logoColor=fff)
+![Google Slides](https://img.shields.io/badge/Google%20Slides-FBBC04?style=for-the-badge&logo=googleslides&logoColor=fff)
 
 <!--
 - **Programming:** Python, Java, JavaScript, C/C++, C#, etc.  
