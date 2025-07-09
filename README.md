@@ -118,6 +118,15 @@
 -->
 </details>
 
+## Some Noteworthy Projects
+
+- [Using Computer Vision to Analyse Emotions in a Two-Person Interview](https://github.com/Matthias-VP-UoM/ICT3909-Final-Year-Project.git) - **Undergraduate Dissertation**
+    - *A system utilising computer vision and machine learning to analyse temporal changes in facial emotions by both the interviewer and interviewee, along with named-entity recognition to extract the names of both individuals.*
+- [StoryMaker AI](https://github.com/Matthias-VP-UoM/ARI3333-StoryMaker-AI.git)
+    - *An AI-powered content generation system that utilises imagination to generate interactive, dynamic stories.*
+- [Bouncing DVD Logo Recreation](https://github.com/Matthias-VP-UoM/Python-Bouncing-DVD-Logo-Demo.git)
+    - *A simple Python application that mimics the iconic Bouncing DVD Logo idle screen from the late 1990s and 2000s. Note: This was a personal project developed long before I started studying AI at University.*
+
 ## 📊 GitHub Stats  
 <p align="center">
   <a href="https://github.com/Matthias-VP-UoM">
