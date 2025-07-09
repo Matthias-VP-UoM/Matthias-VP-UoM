@@ -118,7 +118,7 @@
 -->
 </details>
 
-## Some Noteworthy Projects
+## 🛠️ Some Noteworthy Projects
 
 - [Using Computer Vision to Analyse Emotions in a Two-Person Interview](https://github.com/Matthias-VP-UoM/ICT3909-Final-Year-Project.git) - **Undergraduate Dissertation**
     - *A system utilising computer vision and machine learning to analyse temporal changes in facial emotions by both the interviewer and interviewee, along with named-entity recognition to extract the names of both individuals.*
