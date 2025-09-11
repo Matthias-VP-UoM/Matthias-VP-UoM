@@ -120,12 +120,11 @@
 
 ## 🛠️ Some Noteworthy Projects
 
-- [Using Computer Vision to Analyse Emotions in a Two-Person Interview](https://github.com/Matthias-VP-UoM/ICT3909-Final-Year-Project.git) - **Undergraduate Dissertation**
-    - *A system utilising computer vision and machine learning to analyse temporal changes in facial emotions by both the interviewer and interviewee, along with named-entity recognition to aid in identifying both individuals during analysis.*
-- [StoryMaker AI](https://github.com/Matthias-VP-UoM/ARI3333-StoryMaker-AI.git)
-    - *An AI-powered content generation system that utilises imagination to generate interactive, dynamic stories.*
-- [Bouncing DVD Logo Recreation](https://github.com/Matthias-VP-UoM/Python-Bouncing-DVD-Logo-Demo.git)
-    - *A simple Python application that mimics the iconic Bouncing DVD Logo idle screen from the late 1990s and 2000s. Note: This was a personal project developed long before I started studying AI at University.*
+| Name | Type | Description |
+| ---- | ---- | ----------- |
+| [Using Computer Vision to Analyse Emotions in a Two-Person Interview](https://github.com/Matthias-VP-UoM/ICT3909-Final-Year-Project.git) | Bachelor's Dissertation (Final Year Project) | A system utilising computer vision and machine learning to analyse temporal changes in facial emotions by both the interviewer and interviewee, along with named-entity recognition to aid in identifying both individuals during analysis. |
+| [StoryMaker AI](https://github.com/Matthias-VP-UoM/ARI3333-StoryMaker-AI.git) | Generative AI Application | An AI-powered content generation system that utilises imagination and creativity to generate interactive, dynamic stories. |
+| [Bouncing DVD Logo Recreation](https://github.com/Matthias-VP-UoM/Python-Bouncing-DVD-Logo-Demo.git) | Personal Project | A simple Python application that mimics the iconic Bouncing DVD Logo idle screen from the late 1990s and 2000s. |
 
 ## 📊 GitHub Stats  
 <p align="center">
