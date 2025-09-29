@@ -1,6 +1,6 @@
 # Matthias Vassallo Pulis
 
-<p>Hi, I am Matthias Vassallo Pulis, a recent <b>graduate</b> with a <b>Bachelor's degree in Artificial Intelligence (AI)</b>, which was pursued at the <a href="https://www.um.edu.mt/" target="_blank">University of Malta</a>. I am also planning to pursue a Master's degree in the same field.</p>
+<p>Hi, I am Matthias Vassallo Pulis, a recent <b>graduate</b> with a <b>Bachelor's degree in Artificial Intelligence (AI)</b>, which was pursued at the <a href="https://www.um.edu.mt/" target="_blank">University of Malta</a>, and I am about to begin pursuing a Master's degree in the same field, at the same University, in order to enhance my knowledge on the subject.</p>
 
 ## About Me
 <p>🎓 My passion for AI began when I discovered its potential and the wide range of applications this technology brings.  I love solving real-world problems using AI. My studies so far have given me a solid foundation in a variety of technical fields, especially in <b>Data Science, Computer Vision, Deep Learning, Game AI and Generative AI applications</b>, which are considered to be the areas that I am <b>most passionate</b> about. Alongside these technologies, I have also worked on projects that involved other areas, such as <b>Robotics, Information Retrieval and Natural Language Processing (NLP)</b>.</p>
