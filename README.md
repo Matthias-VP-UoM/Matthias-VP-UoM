@@ -3,7 +3,7 @@
 <p>Hi, I am Matthias Vassallo Pulis, a recent <b>graduate</b> with a <b>Bachelor's degree in Artificial Intelligence (AI)</b>, which was pursued at the <a href="https://www.um.edu.mt/" target="_blank">University of Malta</a>, and I am currently pursuing a <b>Master's degree in the same field</b> at the same University, with the aim of <b>enhancing my knowledge on the areas I have a solid foundation in</b>, and possibly <b>discover new areas that I never got the chance to explore</b> during my undergraduate studies.</p>
 
 ## About Me
-<p>🎓 My passion for AI began when I discovered its potential and the wide range of applications this technology brings.  I love solving real-world problems using AI. My studies so far have given me a solid foundation in a variety of technical fields, especially in <b>Data Science, Computer Vision, Deep Learning, Game AI and Generative AI applications</b>, which are considered to be the areas that I am <b>most passionate</b> about. Alongside these technologies, I have also worked on projects that involved other areas, such as <b>Robotics, Information Retrieval and Natural Language Processing (NLP)</b>. Recently, I have been gaining interest in various topics, most notably <b>Interpretable and Explainable AI</b>.</p>
+<p>🎓 My passion for AI began when I discovered its potential and the wide range of applications this technology brings.  I love solving real-world problems using AI. My studies so far have given me a solid foundation in a variety of technical fields, especially in <b>Data Science, Computer Vision, Deep Learning, Game AI and Generative AI applications</b>, which are considered to be the areas that I am <b>most passionate</b> about. Alongside these technologies, I have also worked on projects that involved other areas, such as <b>Robotics, Information Retrieval and Natural Language Processing (NLP)</b>. Recently, I have been gaining interest in various topics, most notably <b>Interpretable and Explainable AI</b>. I am currently expanding my knowledge into other areas, most notably <b>Explainable and Interpretable AI</b>.</p>
 
 <p>💻 Whenever I'm not working on AI projects, I'm constantly looking to improve my skills through hands-on experience with a variety of programming languages, such as <b>Python, Java and C#</b> (and learning new ones along the way), ensuring <b>versatility across different platforms</b>. This helps to prepare me for whatever challenges life throws at me. You can view my <b>full tech stack</b> <a href="#-tech-stack--expertise">below</a>.</p>
 
@@ -105,8 +105,9 @@
 ### Documentation
 ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=latex&logoColor=white)
-![Microsoft Word](https://custom-icon-badges.demolab.com/badge/Microsoft%20Word-0089D6?style=for-the-badge&logo=msword&logoColor=white)
+![Microsoft Word](https://custom-icon-badges.demolab.com/badge/Microsoft%20Word-0089D6?style=for-the-badge&logo=msword)
 ![Google Docs](https://img.shields.io/badge/Google%20Docs-4285F4?style=for-the-badge&logo=googledocs&logoColor=fff)
+![Microsoft Powerpoint](https://custom-icon-badges.demolab.com/badge/Microsoft%20PowerPoint-FA7661?style=for-the-badge&logo=msppt)
 ![Google Slides](https://img.shields.io/badge/Google%20Slides-FBBC04?style=for-the-badge&logo=googleslides&logoColor=fff)
 
 <!--
