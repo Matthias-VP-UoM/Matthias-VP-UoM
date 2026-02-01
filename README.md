@@ -127,12 +127,12 @@
 | [StoryMaker AI](https://github.com/Matthias-VP-UoM/ARI3333-StoryMaker-AI.git) | Generative AI Application | An AI-powered content generation system that utilises imagination and creativity to generate interactive, dynamic stories. |
 | [Bouncing DVD Logo Recreation](https://github.com/Matthias-VP-UoM/Python-Bouncing-DVD-Logo-Demo.git) | Personal Project | A simple Python application that mimics the iconic Bouncing DVD Logo idle screen from the late 1990s and 2000s. |
 
-## 📊 GitHub Stats  
+<!--## 📊 GitHub Stats  
 <p align="center">
   <a href="https://github.com/Matthias-VP-UoM">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matthias-VP-UoM&layout=compact&theme=vue-dark" height="180">
   </a>
-</p>
+</p>-->
 
 <!--
 **Matthias-VP-UoM/Matthias-VP-UoM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
